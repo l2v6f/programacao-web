@@ -1,4 +1,4 @@
-# programacao-web
+# Laura Bank
 Projeto da aula de Programação para Web ministrada pelo professor João Pedro Macleure Nunes dos Santos
 
 ##Project start##
